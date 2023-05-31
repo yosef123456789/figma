@@ -1,4 +1,4 @@
-const blogData = [
+export const blogData = [
   {
     title: "The Power of Positive Thinking",
     subTitle: "Harnessing the mindset for success",
