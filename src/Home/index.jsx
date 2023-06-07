@@ -4,7 +4,7 @@ function Home() {
   return (
     <div>
        <img src={img} alt="img_top" />
-       <h1>The Nature Spot</h1> 
+       <h1>The Nature Spot link</h1> 
       <Categories />
     </div>
   )
